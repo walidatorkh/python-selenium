@@ -1,0 +1,26 @@
+*.pyc
+*.pyo
+__pycache__/
+*.py[cod]
+*$py.class
+geckodriver.log
+chromedriver.log
+venv/
+env/
+.venv/
+.vscode/
+.idea/
+*.swp
+# Test output and reports
+test-output/
+reports/
+
+# Temporary files
+*.tmp
+*.bak
+
+# Compiled Python files
+build/
+dist/
+.DS_Store
+Thumbs.db
