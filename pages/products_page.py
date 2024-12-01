@@ -1,0 +1,2 @@
+class ProductsPage:
+    pass
