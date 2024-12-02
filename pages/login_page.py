@@ -9,7 +9,6 @@ class LoginPage:
     def open_home_page(self):
         self.browser.get("https://www.saucedemo.com/")
 
-
     def type_user_name(self, username):
         user_name_input = self.browser.find_element(By.ID, "user-name")  # [id="user-name"]
         user_name_input.clear()
